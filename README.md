@@ -1,4 +1,7 @@
-Benjamjn Bascom, [Nov 14, 2021 at 10:28:54 AM]:
+Notion API:
+https://developers.notion.com/
+
+
 Emoji reminder app (done done)
 you can put emojis and write whatever words nice to them that you want the idea is that you make tasks
 if you click the emoji during the day then it turns a color and plays like a little sound in a haptic so you don’t press it accidentally if you want to unpress it you can long press
@@ -11,4 +14,4 @@ Done done v2
 
 Combine done done with idea to have a food logging and exercise tracking app which exports to both Google sheets notion and potentially others
 
-Ben’s point is to own the libraries of exporting this data so that you can sell access to other companies and make $# DoneDone
+Ben’s point is to own the libraries of exporting this data so that you can sell access to other companies and make $        # DoneDone
